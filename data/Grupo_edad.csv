@@ -1,0 +1,12 @@
+﻿Categoría;GRUPO_EDAD1;Edad_menor_rango_aproximado;Edad_mayor_rango_aproximado
+Mortalidad neonatal;0–4;0;0,07
+Mortalidad infantil;5–6;0,08;0,9
+Primera infancia;7–8;1;4
+Niñez;9–10;5;14
+Adolescencia;11;15;19
+Juventud;12–13;20;29
+Adultez temprana;14–16;30;44
+Adultez intermedia;17–19;45;59
+Vejez;20–24;60;84
+Longevidad / Centenarios;25–28;85;120
+Edad desconocida;29;;

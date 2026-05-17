@@ -13,4 +13,3 @@ if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8050))
     # Finalmente, se ejecuta la aplicación con app.run(), indicando que no se active el modo debug (debug=False) y que escuche en todas las interfaces de red (host='0.0.0.0')
     app.run(debug=False, host='0.0.0.0', port=port)
-
