@@ -1,0 +1,9 @@
+/* Corrige el colapso de altura en gráficos choropleth y pie.
+   Dash fuerza height:100% inline; min-height lo sobreescribe sin conflicto. */
+#graph-mapa {
+    min-height: 480px;
+}
+
+#graph-pie {
+    min-height: 390px;
+}

@@ -2,7 +2,7 @@
 from dash import Dash
 import dash_bootstrap_components as dbc
 
-app = Dash(__name__, title='Ejemplo de aplicación web con Dash',
+app = Dash(__name__, title='Análisis de mortalidad en Colombia',
            external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 # Ícono y fuente de la pestaña del navegador
